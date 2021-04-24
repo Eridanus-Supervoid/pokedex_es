@@ -37,7 +37,7 @@ function App() {
   }
 
   if (error) {
-    return <p>Lamentamos los problemas técnicos 😞</p>;
+    return <p>Lamentamos los problemas técnicos</p>;
   }
 
   return (
